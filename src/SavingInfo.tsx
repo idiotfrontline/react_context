@@ -1,10 +1,9 @@
-import { useContext } from "react"
-import { InfoContext } from "./App"
+import { useInfoContext } from "./MyContextProvider"
 
 type SavingInfoProps = {}
 
 export const SavingInfo = (props: SavingInfoProps) => {
-  const { saving, addSaving } = useContext(InfoContext)
+  const { saving, addSaving } = useInfoContext()
 
   return (
     <div className="info">

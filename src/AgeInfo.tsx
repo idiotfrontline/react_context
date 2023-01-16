@@ -1,10 +1,9 @@
-import { useContext } from "react"
-import { InfoContext } from "./App"
+import { useInfoContext } from "./MyContextProvider"
 
 type AgeInfoProps = {}
 
 export const AgeInfo = (props: AgeInfoProps) => {
-  const { age, addAge } = useContext(InfoContext)
+  const { age, addAge } = useInfoContext()
 
   return (
     <div className="info">
