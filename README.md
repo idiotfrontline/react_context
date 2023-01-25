@@ -1,9 +1,9 @@
 # Code for video tutorial:
 
 Youtube Conny Gu (English):
-https://youtu.be/D50MHgLeW4A
+https://youtu.be/8pUFmuqXD1E
 
-Bilibili 一线柏拉图 （chinese):
+Bilibili 一线柏拉图 （chinese) :
 https://www.bilibili.com/video/BV1Z84y1h7aj/?share_source=copy_web&vd_source=3933278361906521f90becdfa06d6ee7
 
 Youtube 一线柏拉图 (chinese):
